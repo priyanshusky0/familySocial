@@ -1,16 +1,45 @@
-# family_socail
+FamilySocial
 
-A new Flutter project.
+FamilySocial is a Flutter app built to help families stay connected in a focused, private space. The goal is simple: share moments, coordinate daily tasks, and keep everyone in sync without the overload of typical social apps.
 
-## Getting Started
+What the app offers
+	•	Private family groups
+	•	Simple, clean UI for quick communication
+	•	Room for features like reminders, photo sharing, and more
+	•	Firebase support for authentication and data storage
+	•	Multi-platform support through Flutter (Android, iOS, web, desktop)
 
-This project is a starting point for a Flutter application.
+Project structure: 
+lib/
+  app/
+    core/
+    features/
+    modules/
+    services/
+    Authentication/
+    Screens/
+    database/
+      firestore_services.dart
+  main.dart
 
-A few resources to get you started if this is your first Flutter project:
+assets/
+  images/
+  icons/
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+android/
+ios/
+macos/
+web/
+linux/
+windows/
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+Clone the repo:
+git clone https://github.com/priyanshusky0/familySocial.git
+cd familySocial
+
+Install packages:
+flutter pub get
+
+Run the app:
+flutter run
