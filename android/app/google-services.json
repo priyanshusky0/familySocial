@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "724698434057",
+    "project_id": "familysocial-8a04c",
+    "storage_bucket": "familysocial-8a04c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724698434057:android:a0e7243cda3e34cb85c6d8",
+        "android_client_info": {
+          "package_name": "com.example.family_socail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724698434057-e1r0lgv70uiqf62c826hghtba000q5ti.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.family_socail",
+            "certificate_hash": "133d396556e0baa43157f0b1246738bc1b3e9945"
+          }
+        },
+        {
+          "client_id": "724698434057-9apjng4c352d49v1sdltgf9hlt647211.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVhtP1w6eyUzWtdG2I0ECR-NGNrj7vvkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724698434057-9apjng4c352d49v1sdltgf9hlt647211.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "724698434057-scuscoo5n3f3e78bjjsm7fecfsmir3ml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.priyanshu.familySocail"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
